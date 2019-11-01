@@ -1,0 +1,6 @@
+---
+git: git version 2.17.1
+ruby: ruby 2.6.5p114 (2019-10-01 revision 67812) [x86_64-linux]
+rails: "-"
+ssh: ssh -p 38949 silent-yoron-8869@ssh-1.mc.lolipop.jp
+nodejs: "-"
